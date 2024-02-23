@@ -1,2 +1,6 @@
 # hello-world
-This repository is for COMP 3521 Assignment 6
+Assignment 6
+Jimmy Pham
+T00629354
+COMP 3521
+Thompson Rivers University
